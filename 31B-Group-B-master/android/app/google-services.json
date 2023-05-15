@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "863288001385",
+    "firebase_url": "https://hunger-cravings-default-rtdb.firebaseio.com",
+    "project_id": "hunger-cravings",
+    "storage_bucket": "hunger-cravings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863288001385:android:a5b06bce80d5bc9de9b3f8",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863288001385-nnj328sjv88dmhd11aiuaqd1dgrvj8j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0k1PkEQEfRBmR9pfvYKQOJeh5MjQAIPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863288001385-nnj328sjv88dmhd11aiuaqd1dgrvj8j8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863288001385-01hstpdjoifkjapi7rv4gp6cufpv2hii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hunger-cravings.appspot.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863288001385:android:4ec2b47d79bc1554e9b3f8",
+        "android_client_info": {
+          "package_name": "com.example.hunger_cravings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863288001385-nnj328sjv88dmhd11aiuaqd1dgrvj8j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0k1PkEQEfRBmR9pfvYKQOJeh5MjQAIPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863288001385-nnj328sjv88dmhd11aiuaqd1dgrvj8j8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863288001385-01hstpdjoifkjapi7rv4gp6cufpv2hii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hunger-cravings.appspot.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
